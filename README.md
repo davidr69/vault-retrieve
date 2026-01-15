@@ -1,5 +1,8 @@
 # Vault-Retrieve
 
+** This documentation requires updating since the architecture has
+changed significantly **
+
 ## Purpose
 
 ---
